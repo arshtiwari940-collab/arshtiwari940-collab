@@ -27,12 +27,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshtiwari940-collab&layout=compact&theme=default" height="170">
-</p>
-
----
-
 ## 🚀 Featured Projects
 - **Civic-Issue-System** — Smart civic issue reporting platform  
 - **Gram-Shayak-Portal** — Digital village assistance portal  
